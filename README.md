@@ -1,2 +1,2 @@
 # ReSys_UTER
-Recommender System
+Unifying Text Embedding and Rating-Oriented Collaborative Filtering for Hybrid Recommendation
